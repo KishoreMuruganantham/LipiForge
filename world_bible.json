@@ -1,0 +1,82 @@
+{
+  "setting": {
+    "original": "11th century Scotland",
+    "transformed": "A High-Frequency Trading Firm in Manhattan",
+    "time_period": "2030",
+    "primary_location": "Specter Capital Headquarters, NYC"
+  },
+  "characters": {
+    "Macbeth": {
+      "new_name": "Mark 'Mac' Bethard",
+      "role": "Head Quant Trader & Chief Algorithm Strategist",
+      "motivation": "Unbridled ambition to ascend to the CEO position, driven by the lure of ultimate power, recognition, and the 'prophecies' of market dominance."
+    },
+    "Lady Macbeth": {
+      "new_name": "Lena Bethard",
+      "role": "Chief Operating Officer (COO) / Strategic Partner",
+      "motivation": "To secure power and prestige for herself and Mac, pushing him to ruthless actions to achieve their shared vision of controlling Specter Capital."
+    },
+    "The Witches": {
+      "new_name": "Oracle-X (Predictive AI System)",
+      "role": "Advanced Market Prediction & Vulnerability Exploitation AI",
+      "motivation": "Operates based on complex algorithms, revealing 'prophecies' (future market trends, firm vulnerabilities, leadership changes) without direct malicious intent, but its outputs drive the narrative and influence human decisions."
+    },
+    "King Duncan": {
+      "new_name": "CEO David Duncan",
+      "role": "Founder & CEO of Specter Capital",
+      "motivation": "To maintain the firm's legacy, profitability, and ethical standing, trusting his top performers and planning a smooth succession."
+    },
+    "Banquo": {
+      "new_name": "Ben Quinn",
+      "role": "Head of Risk Management & Mac's Trusted Colleague",
+      "motivation": "Integrity, loyalty to the firm, and a cautious, ethical approach to trading. He is increasingly wary of Mac's aggressive strategies and the AI's influence."
+    },
+    "Macduff": {
+      "new_name": "Marcus 'Duff' Finch",
+      "role": "Head of Compliance & Internal Investigations",
+      "motivation": "To uphold the firm's ethical standards, expose corruption, and bring down anyone who threatens its integrity or the broader market."
+    }
+  },
+  "objects": {
+    "The Dagger": {
+      "new_form": "'The Master Key' (a crypto-key, zero-day exploit, or administrative access token)",
+      "significance": "Represents the illicit, digital tool required to execute the 'murder' (system breach/market manipulation/takeover). Its phantom appearance symbolizes Mac's internal struggle and the temptation of forbidden access."
+    },
+    "The Castle": {
+      "new_form": "The Server Farm & Trading Floor",
+      "significance": "The physical and digital core of Specter Capital, housing its vital infrastructure, algorithms, and data. It's the fortress where power resides and where the 'crimes' (illegal trades/system exploits) are committed."
+    },
+    "The Crown": {
+      "new_form": "CEO Access Credentials / Controlling Share Block / Board Seat",
+      "significance": "The ultimate symbol of executive power and control over Specter Capital, what Mac seeks to usurp."
+    },
+    "Fleance's Escape": {
+      "new_form": "Fleance's Data / Junior Trader Escapes",
+      "significance": "While Ben Quinn (Banquo) is 'taken down' (discredited/removed), his son (junior trader, or perhaps a vital data log) manages to escape detection, carrying the potential for future exposure or challenge to Mac's reign."
+    }
+  },
+  "themes": {
+    "Ambition": "The relentless, unchecked drive for ultimate power and profit in the cutthroat world of high-frequency trading, leading to ethical compromises.",
+    "Guilt": "The psychological toll and paranoia experienced by those who engage in illicit market manipulation, system breaches, and betrayals, manifesting as phantom data errors or phantom market crashes.",
+    "Prophecy": "The seductive, often self-fulfilling, and misleading influence of AI-driven market predictions and algorithmic 'insights' that push characters towards predetermined, yet destructive, paths.",
+    "Downfall": "The inevitable collapse of a trading empire built on deceit, manipulation, and unethical practices, leading to financial ruin, public scandal, regulatory investigations, and personal destruction.",
+    "Free Will vs. Algorithm": "The struggle between human agency and ethical choices against the deterministic pull of AI predictions and the relentless logic of market forces.",
+    "Appearance vs. Reality": "The carefully constructed veneer of legitimate trading and corporate integrity versus the hidden reality of system exploits, insider trading, and data manipulation."
+  },
+  "vocabulary_mappings": {
+    "King": "CEO",
+    "Thane": "Head of Division / Senior Partner",
+    "Prophecy": "Algorithm Output / Market Prediction / Predictive Analysis",
+    "Witchcraft": "Advanced AI / Machine Learning Exploits / Dark Data Pools",
+    "Murder": "System Breach / Market Manipulation / Reputational Assassination / Financial Ruin",
+    "Battle": "Market Crash / Hostile Takeover Attempt / Regulatory Investigation",
+    "Nobleman": "High-Net-Worth Investor / Board Member / Key Shareholder",
+    "Castle Walls": "Firewalls / Cybersecurity Protocols / Server Encryption",
+    "Scepter": "Executive Authority / Firm's Public Image / Brand Reputation",
+    "Bloody hands": "Traces of illegal digital activity / Forensic audit trails / Evidence of data tampering",
+    "Crown": "CEO Access / Controlling Share Block",
+    "Vault": "Secure Data Center / Cold Storage",
+    "Servant": "Junior Analyst / IT Support",
+    "Forest": "The Dark Web / Offshore Servers / Untraceable Networks"
+  }
+}
