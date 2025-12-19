@@ -23,7 +23,7 @@
 
 The system follows a **Chain-of-Agents** architecture. It deconstructs the story, builds a constraint layer (The World Bible), and then reconstructs the narrative scene-by-scene.
 
-![Architecture Diagram](architecture_diagram.png)
+<img src="architecture_diagram.png" height="1000" />
 
 ---
 
@@ -136,3 +136,4 @@ python run.py
 ---
 
 *Submitted as part of the AI Engineer Take-Home Assignment.*
+
